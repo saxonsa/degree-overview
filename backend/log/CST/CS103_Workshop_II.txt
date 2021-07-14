@@ -1,0 +1,26 @@
+[2021-05-29 15:46:14]
+opeartion: Create course
+course basic information: 
+	course name: Workshop II;
+ 	code: CS103;
+ 	type: MR;
+ 	unit: 1;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: programming
+	CILO2: html
+	CILO3: python
+Assessment Information: 
+	start year to use: 2022
+	method: lab; weight:30.0%; Corresponding CILOs 1-2;
+	method: pre; weight:20.0%; Corresponding CILOs 1-2;
+	method: project; weight:50.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

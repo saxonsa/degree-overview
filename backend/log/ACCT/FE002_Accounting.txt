@@ -1,0 +1,26 @@
+[2021-05-29 15:53:40]
+opeartion: Create course
+course basic information: 
+	course name: Accounting;
+ 	code: FE002;
+ 	type: FE;
+ 	unit: 3;
+ 	belonging program: ACCT;
+	start year: 2022;
+CILO information: 
+	CILO1: basic info
+	CILO2: prepare income statement
+Assessment Information: 
+	start year to use: 2022
+	method: assignment; weight:30.0%; Corresponding CILOs 1;
+	method: attendance; weight:5.0%; Corresponding CILOs 1;
+	method: final; weight:50.0%; Corresponding CILOs 1-2;
+	method: midterm; weight:15.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

@@ -1,0 +1,26 @@
+[2021-05-29 14:46:11]
+opeartion: Create course
+course basic information: 
+	course name: English I;
+ 	code: ENG001;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2021;
+CILO information: 
+	CILO1: Write
+	CILO2: Speak
+	CILO3: Listen
+Assessment Information: 
+	start year to use: 2021
+	method: writing assignment; weight:20.0%; Corresponding CILOs 1;
+	method: quiz; weight:30.0%; Corresponding CILOs 2;
+	method: final; weight:50.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

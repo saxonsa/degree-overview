@@ -1,0 +1,27 @@
+[2021-05-29 15:01:02]
+opeartion: Create course
+course basic information: 
+	course name: English III;
+ 	code: ENG003;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: Write
+	CILO2: Listen
+	CILO3: Speak
+Assessment Information: 
+	start year to use: 2022
+	method: quiz; weight:10.0%; Corresponding CILOs 1-2;
+	method: writing; weight:20.0%; Corresponding CILOs 1-2;
+	method: discussion; weight:20.0%; Corresponding CILOs 3;
+	method: final; weight:50.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

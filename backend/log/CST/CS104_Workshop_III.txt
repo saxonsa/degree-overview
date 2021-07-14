@@ -1,0 +1,25 @@
+[2021-05-29 15:51:43]
+opeartion: Create course
+course basic information: 
+	course name: Workshop III;
+ 	code: CS104;
+ 	type: MR;
+ 	unit: 1;
+ 	belonging program: CST;
+	start year: 2023;
+CILO information: 
+	CILO1: document writing
+	CILO2: programming
+	CILO3: database
+Assessment Information: 
+	start year to use: 2023
+	method: document; weight:50.0%; Corresponding CILOs 2;
+	method: project; weight:50.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

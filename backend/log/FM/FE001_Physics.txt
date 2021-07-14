@@ -1,0 +1,25 @@
+[2021-05-29 15:03:57]
+opeartion: Create course
+course basic information: 
+	course name: Physics;
+ 	code: FE001;
+ 	type: FE;
+ 	unit: 3;
+ 	belonging program: FM;
+	start year: 2021;
+CILO information: 
+	CILO1: introduction to physics
+	CILO2: understanding
+Assessment Information: 
+	start year to use: 2021
+	method: assignment; weight:50.0%; Corresponding CILOs 1-2;
+	method: midterm; weight:10.0%; Corresponding CILOs 1-2;
+	method: final; weight:40.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

@@ -1,0 +1,25 @@
+[2021-05-29 15:48:15]
+opeartion: Create course
+course basic information: 
+	course name: Database;
+ 	code: CS201;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: basic info
+	CILO2: logic
+	CILO3: programming
+Assessment Information: 
+	start year to use: 2022
+	method: assignment; weight:40.0%; Corresponding CILOs 1-2-3;
+	method: final; weight:60.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

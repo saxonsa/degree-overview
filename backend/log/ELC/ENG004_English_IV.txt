@@ -1,0 +1,27 @@
+[2021-05-31 13:47:28]
+opeartion: Create course
+course basic information: 
+	course name: English IV;
+ 	code: ENG004;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: ELC;
+	start year: 2021;
+CILO information: 
+	CILO1: Advanced Reading
+	CILO2: Advanced Listening
+	CILO3: Advanced Writing
+Assessment Information: 
+	start year to use: 2021
+	method: Lab; weight:10.0%; Corresponding CILOs 1;
+	method: Assignment; weight:10.0%; Corresponding CILOs 1-2;
+	method: Project; weight:40.0%; Corresponding CILOs 3;
+	method: Final Exam; weight:40.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

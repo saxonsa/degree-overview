@@ -1,0 +1,24 @@
+[2021-05-31 13:40:54]
+opeartion: Create course
+course basic information: 
+	course name: Python;
+ 	code: CS004;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2021;
+CILO information: 
+	CILO1: Python application
+	CILO2: OOP
+Assessment Information: 
+	start year to use: 2021
+	method: Lab; weight:50.0%; Corresponding CILOs 1;
+	method: Final; weight:50.0%; Corresponding CILOs 2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

@@ -1,0 +1,52 @@
+[2021-05-21 18:26:10]
+opeartion: Create course
+course basic information: 
+	course name: Java;
+ 	code: CS003;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2019;
+CILO information: 
+	CILO1: Advanced Object-Oriented Thinking
+	CILO2: Java programming technic
+	CILO3: Use Java to build an application
+Assessment Information: 
+	start year to use: 2019
+	method: Lab; weight:10.0%; Corresponding CILOs 2;
+	method: Assignment; weight:10.0%; Corresponding CILOs 1-2;
+	method: Project; weight:40.0%; Corresponding CILOs 2-3;
+	method: Final Exam; weight:40.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+
+[2021-05-29 15:08:03]
+opeartion: Create course
+course basic information: 
+	course name: Java;
+ 	code: CS003;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: understanding
+	CILO2: application
+Assessment Information: 
+	start year to use: 2022
+	method: lab; weight:30.0%; Corresponding CILOs 1;
+	method: project; weight:20.0%; Corresponding CILOs 1-2;
+	method: final; weight:50.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

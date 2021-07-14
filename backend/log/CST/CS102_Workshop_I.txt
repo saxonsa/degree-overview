@@ -1,0 +1,26 @@
+[2021-05-29 15:42:41]
+opeartion: Create course
+course basic information: 
+	course name: Workshop I;
+ 	code: CS102;
+ 	type: MR;
+ 	unit: 1;
+ 	belonging program: CST;
+	start year: 2020;
+CILO information: 
+	CILO1: c programming
+	CILO2: html
+	CILO3: css
+Assessment Information: 
+	start year to use: 2020
+	method: lab; weight:50.0%; Corresponding CILOs 1-2;
+	method: project; weight:20.0%; Corresponding CILOs 1-2;
+	method: quiz; weight:30.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

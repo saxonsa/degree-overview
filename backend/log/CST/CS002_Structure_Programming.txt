@@ -1,0 +1,26 @@
+[2021-05-29 15:06:16]
+opeartion: Create course
+course basic information: 
+	course name: Structure Programming;
+ 	code: CS002;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: understanding
+	CILO2: application
+Assessment Information: 
+	start year to use: 2022
+	method: lab; weight:20.0%; Corresponding CILOs 1-2;
+	method: quiz; weight:20.0%; Corresponding CILOs 1;
+	method: project; weight:20.0%; Corresponding CILOs 1-2;
+	method: final; weight:40.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

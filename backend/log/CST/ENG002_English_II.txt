@@ -1,0 +1,26 @@
+[2021-05-29 14:58:29]
+opeartion: Create course
+course basic information: 
+	course name: English II;
+ 	code: ENG002;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2022;
+CILO information: 
+	CILO1: Write
+	CILO2: Speak
+	CILO3: Listen
+Assessment Information: 
+	start year to use: 2022
+	method: quiz; weight:30.0%; Corresponding CILOs 1-2;
+	method: assignment; weight:30.0%; Corresponding CILOs 1;
+	method: final; weight:40.0%; Corresponding CILOs 1-2-3;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+

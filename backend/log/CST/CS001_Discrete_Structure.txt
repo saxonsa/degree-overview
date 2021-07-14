@@ -1,0 +1,53 @@
+[2021-05-29 14:44:19]
+opeartion: Create course
+course basic information: 
+	course name: Discrete Structure;
+ 	code: CS001;
+ 	type: MR;
+ 	unit: 3;
+ 	belonging program: CST;
+	start year: 2021;
+CILO information: 
+	CILO1: math
+	CILO2: logic
+Assessment Information: 
+	start year to use: 2021
+	method: assignment; weight:40.0%; Corresponding CILOs 1-2;
+	method: quiz; weight:20.0%; Corresponding CILOs 1-2;
+	method: final; weight:40.0%; Corresponding CILOs 1-2;
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+
+[2021-05-31 07:42:32]
+Opeartion: Modify course
+Changed information: 
+	New CILO: 
+		0: math
+		1: logical thinking
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+
+[2021-05-31 13:48:02]
+Opeartion: Modify course
+Changed information: 
+	New CILO: 
+		0: math
+		1: logic
+Designer information: 
+	Designer id: judyfeng
+	name: Xin Feng(Judy) 
+	phone number: 1111131
+	email: xinfeng@mail.uic.edu.cn
+
+
+
