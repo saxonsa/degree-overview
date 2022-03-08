@@ -1,12 +1,12 @@
 
 # database
-HOSTNAME = 'cdb-515vasvh.gz.tencentcdb.com'
-# HOSTNAME = 'localhost'
-PORT = '10054'
-# PORT = '3306'
+#HOSTNAME = 'cdb-515vasvh.gz.tencentcdb.com'
+HOSTNAME = 'localhost'
+#PORT = '10054'
+PORT = '3306'
 USERNAME = 'root'
-PASSWORD = 'Sa5218588'
-# PASSWORD = ''
+#PASSWORD = 'Sa5218588'
+PASSWORD = '123'
 DATABASE = 'daffodil'
 
 class DebugMode(object):
